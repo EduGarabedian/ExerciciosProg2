@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67fa8801-2cf7-449f-b07a-2d6f2f93c173" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aMLBgKX92oFNKoAnPauSpsoUjQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67fa8801-2cf7-449f-b07a-2d6f2f93c173" name="Default Changelist" comment="" />
+      <created>1586540381981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586540381981</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1586545348962">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1586545348962" />
+    <state width="1478" height="221" key="GridCell.Tab.0.bottom" timestamp="1586540534926">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1478" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1586540534926" />
+    <state width="1478" height="221" key="GridCell.Tab.0.center" timestamp="1586540534926">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1478" height="221" key="GridCell.Tab.0.center/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1586540534926" />
+    <state width="1478" height="221" key="GridCell.Tab.0.left" timestamp="1586540534925">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1478" height="221" key="GridCell.Tab.0.left/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1586540534925" />
+    <state width="1478" height="221" key="GridCell.Tab.0.right" timestamp="1586540534926">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1478" height="221" key="GridCell.Tab.0.right/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1586540534926" />
+    <state x="549" y="210" width="438" height="481" key="RefactorJ.WrapReturnValue" timestamp="1586542962992">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="210" width="438" height="481" key="RefactorJ.WrapReturnValue/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1586542962992" />
+  </component>
+</project>

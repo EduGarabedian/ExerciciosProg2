@@ -49,10 +49,10 @@ public class AlunoDAOMySQL implements AlunoDAO{
 
             while(rs.next()){
                 Aluno aluno=new Aluno();
-                aluno.setTia(rs.getLong("id"));
+                aluno.setTia(rs.getLong("tia"));
                 aluno.setNome(rs.getString("nome"));
-                aluno.setHorarioEntrada(rs.getString("horario_de_entrada"));
-                aluno.setHorarioSaida(rs.getString("horario_de_saida"));
+                aluno.setHorarioEntrada(rs.getString("horarioEntrada"));
+                aluno.setHorarioSaida(rs.getString("horarioSaida"));
                 alunos.add(aluno);
             }
             return alunos;

@@ -3,7 +3,7 @@ package control.freq;
 import java.sql.*;
 
 public class MySQLConnection {
-    String url= "jdbc:mysql://127.0.0.1:32771/mysql";
+    String url= "jdbc:mysql://127.0.0.1:32771/Mackenzie";
     String usuario="root";
     String senha="root";
 
